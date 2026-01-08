@@ -8,6 +8,5 @@ class Solution():
                     count += 1
             result.append(count)
         return result
-        smallerNumbersThanCurrent(self, [8,1,2,2,3])
-        smallerNumbersThanCurrent(self, [6,5,4,8])
-        smallerNumbersThanCurrent(self, [7,7,7,7])
+sol = Solution()
+print(sol.smallerNumbersThanCurrent([8,1,2,2,3]))  # Output: [4,0,1,1,3]
