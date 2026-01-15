@@ -25,12 +25,15 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 1137 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | N-th Tribonacci Number | [View Solution](./1137/1137.py) |
 | 1281 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Subtract Product and Sum of Digits | [View Solution](./1281/1281.py) |
 | 1365 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Smaller Numbers Than Current | [View Solution](./1365/1365.py) |
+| 1431 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Kids With the Greatest Number of Candies | [View Solution](./1431/1431.py) |
 | 1480 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Running Sum of 1d Array | [View Solution](./1480/1480.py) |
 | 1523 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Odd Numbers in an Interval | [View Solution](./1523/1523.py) |
+| 1550 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Three Consecutive Odds | [View Solution](./1550/1550.py) |
 | 1672 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Richest Customer Wealth | [View Solution](./1672/1672.py) |
 | 2520 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count the Digits That Divide a Number | [View Solution](./2520/2520.py) |
 | 2960 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Tested Devices After Test Ops | [View Solution](./2960/2960.py) |
 | 3099 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Harshad Number | [View Solution](./3099/3099.py) |
+| 283 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Move Zeroes | [View Solution](./283/283.py) |
 
 ## 🛠️ Tech Stack
 
@@ -50,12 +53,11 @@ This repository is organized by problem number. Each directory corresponds to a 
 3. **Run the script:**
    ```bash
    python 1.py
-   ```
-
+   
 ## 📊 Statistics
 
-- **Total Problems Solved:** 23
-- **Easy:** 20
+- **Total Problems Solved:** 26
+- **Easy:** 23
 - **Medium:** 3
 - **Hard:** 0
 
