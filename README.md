@@ -15,6 +15,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 80 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Remove Duplicates from Sorted Array II | [View Solution](./80/80.py) |
 | 121 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Best Time to Buy and Sell Stock | [View Solution](./121/121.py) |
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
+| 167 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Sum II - Input Array Is Sorted | [View Solution](./167/167.py) |
 | 231 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Two | [View Solution](./231/231.py) |
 | 326 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Three | [View Solution](./326/326.py) |
 | 342 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Four | [View Solution](./342/342.py) |
