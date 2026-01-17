@@ -17,6 +17,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
 | 167 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Sum II - Input Array Is Sorted | [View Solution](./167/167.py) |
 | 231 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Two | [View Solution](./231/231.py) |
+| 283 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Move Zeroes | [View Solution](./283/283.py) |
 | 326 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Three | [View Solution](./326/326.py) |
 | 342 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Four | [View Solution](./342/342.py) |
 | 412 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fizz Buzz | [View Solution](./412/412.py) |
@@ -34,7 +35,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 2520 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count the Digits That Divide a Number | [View Solution](./2520/2520.py) |
 | 2960 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Tested Devices After Test Ops | [View Solution](./2960/2960.py) |
 | 3099 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Harshad Number | [View Solution](./3099/3099.py) |
-| 283 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Move Zeroes | [View Solution](./283/283.py) |
+
 
 ## 🛠️ Tech Stack
 
