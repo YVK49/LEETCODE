@@ -9,9 +9,11 @@ This repository is organized by problem number. Each directory corresponds to a 
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
+| 9 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | palindrome number | [View Solution](./9/9.py) |
 | 26 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Duplicates from Sorted Array | [View Solution](./26/26.py) |
 | 27 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Element | [View Solution](./27/27.py) |
 | 50 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Pow(x, n) | [View Solution](./50/50.py) |
+| 58 | ![Medium](https://img.shields.io/badge/-Easy-brightgreen) | length of last word | [View Solution](./58/58s.py) |
 | 80 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Remove Duplicates from Sorted Array II | [View Solution](./80/80.py) |
 | 121 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Best Time to Buy and Sell Stock | [View Solution](./121/121.py) |
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
