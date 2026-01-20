@@ -26,7 +26,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 345 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a all vowels in a string | [View Solution](./345/345.py) 
 | 412 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fizz Buzz | [View Solution](./412/412.py) |
 | 509 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fibonacci Number | [View Solution](./509/509.py) |
-| 825 | ![Medium](https://img.shields.io/badge/-Easy-brightgreen) | friends of appropriate age | [View Solution](./825/825.py) |
+| 825 | ![Medium](https://img.shields.io/badge/-Medium-orange) | friends of appropriate age | [View Solution](./825/825.py) |
 | 905 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity | [View Solution](./905/905.py) |
 | 922 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity II | [View Solution](./922/922.py) |
 | 1137 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | N-th Tribonacci Number | [View Solution](./1137/1137.py) |
