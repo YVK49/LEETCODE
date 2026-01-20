@@ -23,6 +23,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 326 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Three | [View Solution](./326/326.py) |
 | 342 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Four | [View Solution](./342/342.py) |
 | 344 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a string | [View Solution](./344/344.py) 
+| 345 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a all vowels in a string | [View Solution](./345/345.py) 
 | 412 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fizz Buzz | [View Solution](./412/412.py) |
 | 509 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fibonacci Number | [View Solution](./509/509.py) |
 | 905 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity | [View Solution](./905/905.py) |
