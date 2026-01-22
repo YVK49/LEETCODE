@@ -66,7 +66,7 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 34
+- **Total Problems Solved:** 35
 - **Easy:** 29
 - **Medium:** 6
 - **Hard:** 0
