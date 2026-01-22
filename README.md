@@ -25,6 +25,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 344 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a string | [View Solution](./344/344.py) 
 | 345 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a all vowels in a string | [View Solution](./345/345.py) 
 | 412 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fizz Buzz | [View Solution](./412/412.py) |
+| 485 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | max consecutive one's | [View Solution](./485/485.py) |
 | 509 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fibonacci Number | [View Solution](./509/509.py) |
 | 825 | ![Medium](https://img.shields.io/badge/-Medium-orange) | friends of appropriate age | [View Solution](./825/825.py) |
 | 905 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity | [View Solution](./905/905.py) |
@@ -66,7 +67,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 ## 📊 Statistics
 
 - **Total Problems Solved:** 34
-- **Easy:** 28
+- **Easy:** 29
 - **Medium:** 6
 - **Hard:** 0
 
