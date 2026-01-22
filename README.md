@@ -40,6 +40,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 2520 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count the Digits That Divide a Number | [View Solution](./2520/2520.py) |
 | 2960 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Tested Devices After Test Ops | [View Solution](./2960/2960.py) |
 | 3099 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Harshad Number | [View Solution](./3099/3099.py) |
+| 3775 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse wordds with same vowel count | [View Solution](./3775/3775.py) |
 
 
 ## 🛠️ Tech Stack
@@ -63,9 +64,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 32
+- **Total Problems Solved:** 33
 - **Easy:** 27
-- **Medium:** 5
+- **Medium:** 6
 - **Hard:** 0
 
 ---
