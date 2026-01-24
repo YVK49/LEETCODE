@@ -70,9 +70,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 38
+- **Total Problems Solved:** 39
 - **Easy:** 32
-- **Medium:** 6
+- **Medium:** 7
 - **Hard:** 0
 
 ---
