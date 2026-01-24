@@ -30,6 +30,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 825 | ![Medium](https://img.shields.io/badge/-Medium-orange) | friends of appropriate age | [View Solution](./825/825.py) |
 | 905 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity | [View Solution](./905/905.py) |
 | 922 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity II | [View Solution](./922/922.py) |
+| 977 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | squares of sorted array | [View Solution](./977/977.py) |
 | 1137 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | N-th Tribonacci Number | [View Solution](./1137/1137.py) |
 | 1281 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Subtract Product and Sum of Digits | [View Solution](./1281/1281.py) |
 | 1365 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Smaller Numbers Than Current | [View Solution](./1365/1365.py) |
@@ -66,8 +67,8 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 35
-- **Easy:** 29
+- **Total Problems Solved:** 36
+- **Easy:** 30
 - **Medium:** 6
 - **Hard:** 0
 
