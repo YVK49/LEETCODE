@@ -29,6 +29,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 509 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fibonacci Number | [View Solution](./509/509.py) |
 | 541 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Reverse string II | [View Solution](./541/541.py) |
 | 557 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse wrods in a string III | [View Solution](./557/557.py) |
+| 633 | ![Medium](https://img.shields.io/badge/-Medium-orange) | sum of square numbers | [View Solution](./633/633.py) |
 | 825 | ![Medium](https://img.shields.io/badge/-Medium-orange) | friends of appropriate age | [View Solution](./825/825.py) |
 | 905 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity | [View Solution](./905/905.py) |
 | 922 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity II | [View Solution](./922/922.py) |
