@@ -18,6 +18,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 121 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Best Time to Buy and Sell Stock | [View Solution](./121/121.py) |
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
 | 167 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Sum II - Input Array Is Sorted | [View Solution](./167/167.py) |
+| 202 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | happy number | [View Solution](./202/202.py) |
 | 231 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Two | [View Solution](./231/231.py) |
 | 283 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Move Zeroes | [View Solution](./283/283.py) |
 | 326 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Three | [View Solution](./326/326.py) |
@@ -70,8 +71,8 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 39
-- **Easy:** 32
+- **Total Problems Solved:** 40
+- **Easy:** 33
 - **Medium:** 7
 - **Hard:** 0
 
