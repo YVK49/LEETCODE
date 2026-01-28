@@ -38,6 +38,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 1137 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | N-th Tribonacci Number | [View Solution](./1137/1137.py) |
 | 1281 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Subtract Product and Sum of Digits | [View Solution](./1281/1281.py) |
 | 1346 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | check if N and its double exists | [View Solution](./1346/1346.py) |
+| 1348 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Find the Distance Value Between Two Arrays | [View Solution](./1348/1348.py) |
 | 1365 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Smaller Numbers Than Current | [View Solution](./1365/1365.py) |
 | 1431 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Kids With the Greatest Number of Candies | [View Solution](./1431/1431.py) |
 | 1480 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Running Sum of 1d Array | [View Solution](./1480/1480.py) |
@@ -74,8 +75,8 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 43
-- **Easy:** 36
+- **Total Problems Solved:** 44
+- **Easy:** 37
 - **Medium:** 7
 - **Hard:** 0
 
