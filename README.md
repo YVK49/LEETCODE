@@ -46,6 +46,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 2000 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse the prefix of the word | [View Solution](./2000/2000.py) |
 | 2511 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | maximum enimies captured | [View Solution](./2511/2511.py) |
 | 2520 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count the Digits That Divide a Number | [View Solution](./2520/2520.py) |
+| 2824 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | count pairs whose sum is less than target | [View Solution](./2824/2824.py) |
 | 2960 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Tested Devices After Test Ops | [View Solution](./2960/2960.py) |
 | 3099 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Harshad Number | [View Solution](./3099/3099.py) |
 | 3775 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse wordds with same vowel count | [View Solution](./3775/3775.py) |
@@ -72,8 +73,8 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
-- **Easy:** 34
+- **Total Problems Solved:** 42
+- **Easy:** 35
 - **Medium:** 7
 - **Hard:** 0
 
