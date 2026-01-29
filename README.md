@@ -11,6 +11,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
 | 9 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | palindrome number | [View Solution](./9/9.py) |
 | 15 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum | [View Solution](./15/15.py) |
+| 16 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum closest | [View Solution](./16/16.py) |
 | 26 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Duplicates from Sorted Array | [View Solution](./26/26.py) |
 | 27 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Element | [View Solution](./27/27.py) |
 | 50 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Pow(x, n) | [View Solution](./50/50.py) |
@@ -76,9 +77,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 45
+- **Total Problems Solved:** 46
 - **Easy:** 37
-- **Medium:** 8
+- **Medium:** 9
 - **Hard:** 0
 
 ---
