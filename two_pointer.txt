@@ -1,0 +1,55 @@
+Easy (20):
+• 1. Two Sum (sort + two pointers)
+• 633. Sum of Square Numbers
+• 2824. Count Pairs Whose Sum is Less than Target
+• 2570. Merge Two 2D Arrays by Summing Values
+• 1346. Check If N and Its Double Exist
+• 977. Squares of a Sorted Array
+• 88. Merge Sorted Array
+• 905. Sort Array By Parity
+• 27. Remove Element
+• 26. Remove Duplicates from Sorted Array
+• 283. Move Zeroes
+• 844. Backspace String Compare
+• 925. Long Pressed Name
+• 917. Reverse Only Letters
+• 541. Reverse String II
+• 350. Intersection of Two Arrays II
+• 349. Intersection of Two Arrays
+• 1089. Duplicate Zeros
+• 1213. Intersection of Three Sorted Arrays (Premium)
+• 1086-style merge variants
+
+Medium (20):
+• 167. Two Sum II
+• 15. 3Sum
+• 16. 3Sum Closest
+• 18. 4Sum
+• 259. 3Sum Smaller (Premium)
+• 923. 3Sum With Multiplicity
+• 1679. Max Number of K-Sum Pairs
+• 532. K-diff Pairs in an Array
+• 611. Valid Triangle Number
+• 948. Bag of Tokens
+• 1877. Minimize Maximum Pair Sum
+• 2563. Count the Number of Fair Pairs
+• 845. Longest Mountain in Array
+• 75. Sort Colors
+• 11. Container With Most Water
+• 1099. Two Sum Less Than K (Premium)
+• 1229. Meeting Scheduler
+• 1561. Maximum Number of Coins You Can Get
+• 977 variant practice
+• 88 reverse-merge variants
+
+Hard (10):
+• 42. Trapping Rain Water
+• 18. 4Sum (heavy duplicate handling)
+• 16. 3Sum Closest (optimization focus)
+• 11. Container With Most Water (greedy invariant)
+• 845. Longest Mountain in Array
+• 611. Valid Triangle Number (upper bound variant)
+• 2563. Count the Number of Fair Pairs (boundary counting)
+• 1679. Max Number of K-Sum Pairs (tight constraints)
+• 75. Sort Colors (three pointers)
+• Advanced k-Sum variants
