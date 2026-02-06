@@ -80,9 +80,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 50
+- **Total Problems Solved:** 51
 - **Easy:** 38
-- **Medium:** 12
+- **Medium:** 13
 - **Hard:** 0
 
 ---
