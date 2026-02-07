@@ -29,6 +29,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 342 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Four | [View Solution](./342/342.py) |
 | 344 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a string | [View Solution](./344/344.py) 
 | 345 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a all vowels in a string | [View Solution](./345/345.py) 
+| 392 | ![Medium](https://img.shields.io/badge/-Medium-orange) | is subsequence | [View Solution](./392/392.py) |
 | 412 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fizz Buzz | [View Solution](./412/412.py) |
 | 485 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | max consecutive one's | [View Solution](./485/485.py) |
 | 509 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fibonacci Number | [View Solution](./509/509.py) |
@@ -80,9 +81,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 51
+- **Total Problems Solved:** 52
 - **Easy:** 38
-- **Medium:** 13
+- **Medium:** 14
 - **Hard:** 0
 
 ---
