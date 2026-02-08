@@ -25,6 +25,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 202 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | happy number | [View Solution](./202/202.py) |
 | 231 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Two | [View Solution](./231/231.py) |
 | 283 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Move Zeroes | [View Solution](./283/283.py) |
+| 287 | ![Medium](https://img.shields.io/badge/-Medium-orange) | return the duplicate value | [View Solution](./287/287.py) |
 | 326 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Three | [View Solution](./326/326.py) |
 | 342 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Four | [View Solution](./342/342.py) |
 | 344 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a string | [View Solution](./344/344.py) 
@@ -81,9 +82,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 53
 - **Easy:** 38
-- **Medium:** 14
+- **Medium:** 15
 - **Hard:** 0
 
 ---
