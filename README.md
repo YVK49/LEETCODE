@@ -23,6 +23,8 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
 | 167 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Sum II - Input Array Is Sorted | [View Solution](./167/167.py) |
 | 202 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | happy number | [View Solution](./202/202.py) |
+| 217 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | contains duplicates | [View Solution](./217/217.py) |
+| 219 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | contains duplicates - II | [View Solution](./219/219.py) |
 | 231 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Two | [View Solution](./231/231.py) |
 | 283 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Move Zeroes | [View Solution](./283/283.py) |
 | 287 | ![Medium](https://img.shields.io/badge/-Medium-orange) | return the duplicate value | [View Solution](./287/287.py) |
@@ -82,8 +84,8 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 53
-- **Easy:** 38
+- **Total Problems Solved:** 55
+- **Easy:** 40
 - **Medium:** 15
 - **Hard:** 0
 
