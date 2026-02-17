@@ -55,6 +55,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 1523 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Odd Numbers in an Interval | [View Solution](./1523/1523.py) |
 | 1550 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Three Consecutive Odds | [View Solution](./1550/1550.py) |
 | 1672 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Richest Customer Wealth | [View Solution](./1672/1672.py) |
+| 1979 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | GCD | [View Solution](./1979/1979.py) |
 | 2000 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse the prefix of the word | [View Solution](./2000/2000.py) |
 | 2511 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | maximum enimies captured | [View Solution](./2511/2511.py) |
 | 2520 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count the Digits That Divide a Number | [View Solution](./2520/2520.py) |
@@ -85,8 +86,8 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 56
-- **Easy:** 40
+- **Total Problems Solved:** 57
+- **Easy:** 41
 - **Medium:** 16
 - **Hard:** 0
 
