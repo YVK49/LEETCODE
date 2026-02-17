@@ -9,6 +9,7 @@ This repository is organized by problem number. Each directory corresponds to a 
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
+| 7 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse integer | [View Solution](./7/7.py) |
 | 9 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | palindrome number | [View Solution](./9/9.py) |
 | 15 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum | [View Solution](./15/15.py) |
 | 16 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum closest | [View Solution](./16/16.py) |
@@ -84,9 +85,9 @@ This repository is organized by problem number. Each directory corresponds to a 
    
 ## 📊 Statistics
 
-- **Total Problems Solved:** 55
+- **Total Problems Solved:** 56
 - **Easy:** 40
-- **Medium:** 15
+- **Medium:** 16
 - **Hard:** 0
 
 ---
