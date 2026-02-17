@@ -5,7 +5,7 @@ Welcome to my LeetCode solutions repository! This collection contains my solutio
 ## 🚀 Repository Overview
 
 This repository is organized by problem number. Each directory corresponds to a specific LeetCode problem and contains the Python solution.
-
+LEETCODE: 
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
@@ -64,6 +64,10 @@ This repository is organized by problem number. Each directory corresponds to a 
 | 3099 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Harshad Number | [View Solution](./3099/3099.py) |
 | 3775 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse wordds with same vowel count | [View Solution](./3775/3775.py) |
 
+STRIVER'S SHEET:
+| Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
+|:----------:|:----------:|------------------------------------|:-------------:|
+| 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | divisors of a number| [View Solution](./6/6.py) |
 
 ## 🛠️ Tech Stack
 
@@ -84,11 +88,20 @@ This repository is organized by problem number. Each directory corresponds to a 
    ```bash
    python 1.py
    
-## 📊 Statistics
+## 📊 Statistics (leetcode)
 
 - **Total Problems Solved:** 57
 - **Easy:** 41
 - **Medium:** 16
+- **Hard:** 0
+
+
+   
+## 📊 Statistics (striver's sheet)
+
+- **Total Problems Solved:** 07
+- **Easy:** 07
+- **Medium:** 0
 - **Hard:** 0
 
 ---
