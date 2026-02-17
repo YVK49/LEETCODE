@@ -5,7 +5,8 @@ Welcome to my LeetCode solutions repository! This collection contains my solutio
 ## 🚀 Repository Overview
 
 This repository is organized by problem number. Each directory corresponds to a specific LeetCode problem and contains the Python solution.
-LEETCODE: 
+
+LEETCODE : 
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
