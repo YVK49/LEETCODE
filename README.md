@@ -67,7 +67,12 @@ LEETCODE:
 STRIVER'S SHEET:
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
-| 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | divisors of a number| [View Solution](./6/6.py) |
+| 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | count digits | [View Solution](./strivers_sheet/1.py) |
+| 2 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | revers integer (32-bit) | [View Solution](./strivers_sheet/2.py) |
+| 3 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | is palindrome | [View Solution](./strivers_sheet/3.py) |
+| 4 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | GCD | [View Solution](./strivers_sheet/4.py) |
+| 6 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | divisors of a number | [View Solution](./strivers_sheet/6.py) |
+
 
 ## 🛠️ Tech Stack
 
@@ -99,8 +104,8 @@ STRIVER'S SHEET:
    
 ## 📊 Statistics (striver's sheet)
 
-- **Total Problems Solved:** 07
-- **Easy:** 07
+- **Total Problems Solved:** 05
+- **Easy:** 05
 - **Medium:** 0
 - **Hard:** 0
 
