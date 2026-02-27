@@ -5,7 +5,9 @@ Welcome to my LeetCode solutions repository! This collection contains my solutio
 ## 🚀 Repository Overview
 
 This repository is organized by problem number. Each directory corresponds to a specific LeetCode problem and contains the Python solution.
-LEETCODE: 
+
+LEETCODE : 
+
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
@@ -74,6 +76,12 @@ STRIVER'S SHEET:
 | 6 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | divisors of a number | [View Solution](./strivers_sheet/6.py) |
 
 
+geek for geeks :
+| Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
+|:----------:|:----------:|------------------------------------|:-------------:|
+| 1 | ![Medium](https://img.shields.io/badge/-Medium-orange) | indexes of subarray sum | [View Solution](./geek_for_geeks/1.py) |
+
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.x
@@ -107,6 +115,14 @@ STRIVER'S SHEET:
 - **Total Problems Solved:** 05
 - **Easy:** 05
 - **Medium:** 0
+- **Hard:** 0
+
+
+## 📊 Statistics (geek_for_geeks)
+
+- **Total Problems Solved:** 01
+- **Easy:** 0
+- **Medium:** 01
 - **Hard:** 0
 
 ---
