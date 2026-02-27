@@ -83,6 +83,7 @@ geek for geeks :
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Medium](https://img.shields.io/badge/-Medium-orange) | indexes of subarray sum | [View Solution](./geek_for_geeks/1.py) |
+| 2 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | smallest subarray with sum greater than x | [View Solution](./geek_for_geeks/2.py) |
 
 
 ## 🛠️ Tech Stack
@@ -123,8 +124,8 @@ geek for geeks :
 
 ## 📊 Statistics (geek_for_geeks)
 
-- **Total Problems Solved:** 01
-- **Easy:** 0
+- **Total Problems Solved:** 02
+- **Easy:** 01
 - **Medium:** 01
 - **Hard:** 0
 
