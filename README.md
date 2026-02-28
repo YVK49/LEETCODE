@@ -124,8 +124,8 @@ geek for geeks :
 
 ## 📊 Statistics (geek_for_geeks)
 
-- **Total Problems Solved:** 02
-- **Easy:** 01
+- **Total Problems Solve2d:** 03
+- **Easy:** 0
 - **Medium:** 01
 - **Hard:** 0
 
