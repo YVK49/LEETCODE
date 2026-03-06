@@ -7,26 +7,25 @@ Welcome to my LeetCode solutions repository! This collection contains my solutio
 This repository is organized by problem number. Each directory corresponds to a specific LeetCode problem and contains the Python solution.
 
 LEETCODE : 
-<<<<<<< HEAD
-
-=======
->>>>>>> a7109a311ac9fa00d5f7a2ae694ce34170dfbea9
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
 |:----------:|:----------:|------------------------------------|:-------------:|
 | 1 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Two Sum | [View Solution](./1/1.py) |
+| 5 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Longest Palindromic Substring | [View Solution](./5/5.py) |
 | 7 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse integer | [View Solution](./7/7.py) |
 | 9 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | palindrome number | [View Solution](./9/9.py) |
+| 11 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Container With Most Water | [View Solution](./11/11.py) |
 | 15 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum | [View Solution](./15/15.py) |
 | 16 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum closest | [View Solution](./16/16.py) |
 | 18 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 4 sum | [View Solution](./18/18.py) |
 | 26 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Duplicates from Sorted Array | [View Solution](./26/26.py) |
 | 27 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Element | [View Solution](./27/27.py) |
 | 50 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Pow(x, n) | [View Solution](./50/50.py) |
-| 58 | ![Medium](https://img.shields.io/badge/-Easy-brightgreen) | length of last word | [View Solution](./58/58s.py) |
-| 75 | ![Medium](https://img.shields.io/badge/-Easy-brightgreen) | length of last word | [View Solution](./75/75.py) |
+| 58 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | length of last word | [View Solution](./58/58s.py) |
+| 75 | ![Medium](https://img.shields.io/badge/-Medium-orange) | sort colors | [View Solution](./75/75.py) |
 | 80 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Remove Duplicates from Sorted Array II | [View Solution](./80/80.py) |
 | 121 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Best Time to Buy and Sell Stock | [View Solution](./121/121.py) |
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
+| 151 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Reverse Words in a String | [View Solution](./151/151.py) |
 | 167 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Sum II - Input Array Is Sorted | [View Solution](./167/167.py) |
 | 202 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | happy number | [View Solution](./202/202.py) |
 | 217 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | contains duplicates | [View Solution](./217/217.py) |
@@ -37,7 +36,7 @@ LEETCODE :
 | 326 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Three | [View Solution](./326/326.py) |
 | 342 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Power of Four | [View Solution](./342/342.py) |
 | 344 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a string | [View Solution](./344/344.py) 
-| 345 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse a all vowels in a string | [View Solution](./345/345.py) 
+| 345 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | reverse all vowels in a string | [View Solution](./345/345.py) 
 | 392 | ![Medium](https://img.shields.io/badge/-Medium-orange) | is subsequence | [View Solution](./392/392.py) |
 | 412 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Fizz Buzz | [View Solution](./412/412.py) |
 | 485 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | max consecutive one's | [View Solution](./485/485.py) |
@@ -67,7 +66,7 @@ LEETCODE :
 | 2824 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | count pairs whose sum is less than target | [View Solution](./2824/2824.py) |
 | 2960 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Count Tested Devices After Test Ops | [View Solution](./2960/2960.py) |
 | 3099 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Harshad Number | [View Solution](./3099/3099.py) |
-| 3775 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse wordds with same vowel count | [View Solution](./3775/3775.py) |
+| 3775 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse words with same vowel count | [View Solution](./3775/3775.py) |
 
 STRIVER'S SHEET:
 | Problem ID | Difficulty | Problem Description / Function Name | Solution Link |
@@ -86,6 +85,7 @@ geek for geeks :
 | 2 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | smallest subarray with sum greater than x | [View Solution](./geek_for_geeks/2.py) |
 | 3 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | missing in array | [View Solution](./geek_for_geeks/3.py) |
 | 4 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | two repeated elements| [View Solution](./geek_for_geeks/4.py) |
+| 5 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Max Subarray Sum (Kadane's) | [View Solution](./geek_for_geeks/5.py) |
 
 
 
@@ -111,9 +111,9 @@ geek for geeks :
    
 ## 📊 Statistics (leetcode)
 
-- **Total Problems Solved:** 57
+- **Total Problems Solved:** 58
 - **Easy:** 41
-- **Medium:** 16
+- **Medium:** 17
 - **Hard:** 0
 
 
@@ -128,9 +128,9 @@ geek for geeks :
 
 ## 📊 Statistics (geek_for_geeks)
 
-- **Total Problems Solve2d:** 03
-- **Easy:** 0
-- **Medium:** 01
+- **Total Problems Solved:** 05
+- **Easy:** 03
+- **Medium:** 02
 - **Hard:** 0
 
 ---
