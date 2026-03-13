@@ -1,6 +1,6 @@
 #kadane's algorithm
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices: list[int]) -> int:
         max_profit = 0
         min_price = float('inf')
         for i in prices:
