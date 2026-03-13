@@ -23,6 +23,7 @@ LEETCODE :
 | 58 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | length of last word | [View Solution](./58/58s.py) |
 | 75 | ![Medium](https://img.shields.io/badge/-Medium-orange) | sort colors | [View Solution](./75/75.py) |
 | 80 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Remove Duplicates from Sorted Array II | [View Solution](./80/80.py) |
+| 88 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | merge sorted array | [View Solution](./88/88.py) |
 | 121 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Best Time to Buy and Sell Stock | [View Solution](./121/121.py) |
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./122/122.py) |
 | 151 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Reverse Words in a String | [View Solution](./151/151.py) |
@@ -112,8 +113,8 @@ geek for geeks :
    
 ## 📊 Statistics (leetcode)
 
-- **Total Problems Solved:** 58
-- **Easy:** 43
+- **Total Problems Solved:** 59
+- **Easy:** 44
 - **Medium:** 15
 - **Hard:** 0
 
