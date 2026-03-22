@@ -115,8 +115,8 @@ geek for geeks :
 
 ## 📊 Statistics (leetcode)
 
-- **Total Problems Solved:** 59
-- **Easy:** 44
+- **Total Problems Solved:** 60
+- **Easy:** 45
 - **Medium:** 15
 - **Hard:** 0
 
