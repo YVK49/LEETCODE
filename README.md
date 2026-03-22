@@ -14,6 +14,7 @@ LEETCODE :
 | 7 | ![Medium](https://img.shields.io/badge/-Medium-orange) | reverse integer | [View Solution](./leetcode/7/7.py) |
 | 9 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | palindrome number | [View Solution](./leetcode/9/9.py) |
 | 11 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Container With Most Water | [View Solution](./leetcode/11/11.py) |
+| 14 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | longest common prefix | [View Solution](./leetcode/14/14.py) |
 | 15 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum | [View Solution](./leetcode/15/15.py) |
 | 16 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 3 sum closest | [View Solution](./leetcode/16/16.py) |
 | 18 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 4 sum | [View Solution](./leetcode/18/18.py) |
