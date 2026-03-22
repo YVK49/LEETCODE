@@ -27,6 +27,7 @@ LEETCODE :
 | 88 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | merge sorted array | [View Solution](./leetcode/88/88.py) |
 | 121 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Best Time to Buy and Sell Stock | [View Solution](./leetcode/121/121.py) |
 | 122 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Best Time to Buy and Sell Stock II | [View Solution](./leetcode/122/122.py) |
+| 136 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | single number | [View Solution](./leetcode/136/136.py) |
 | 151 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Reverse Words in a String | [View Solution](./leetcode/151/151.py) |
 | 169 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | majority number | [View Solution](./leetcode/169/169.py) |
 | 167 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Two Sum II - Input Array Is Sorted | [View Solution](./leetcode/167/167.py) |
@@ -115,8 +116,8 @@ geek for geeks :
 
 ## 📊 Statistics (leetcode)
 
-- **Total Problems Solved:** 60
-- **Easy:** 45
+- **Total Problems Solved:** 61
+- **Easy:** 46
 - **Medium:** 15
 - **Hard:** 0
 
