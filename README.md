@@ -54,6 +54,7 @@ LEETCODE :
 | 922 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Sort Array By Parity II | [View Solution](./leetcode/922/922.py) |
 | 977 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | squares of sorted array | [View Solution](./leetcode/977/977.py) |
 | 1137 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | N-th Tribonacci Number | [View Solution](./leetcode/1137/1137.py) |
+| 1189 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | max number of balloons | [View Solution](./leetcode/1189/1189.py) |
 | 1281 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Subtract Product and Sum of Digits | [View Solution](./leetcode/1281/1281.py) |
 | 1346 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | check if N and its double exists | [View Solution](./leetcode/1346/1346.py) |
 | 1348 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Find the Distance Value Between Two Arrays | [View Solution](./leetcode/1348/1348.py) |
@@ -116,8 +117,8 @@ geek for geeks :
 
 ## 📊 Statistics (leetcode)
 
-- **Total Problems Solved:** 61
-- **Easy:** 46
+- **Total Problems Solved:** 62
+- **Easy:** 47
 - **Medium:** 15
 - **Hard:** 0
 
