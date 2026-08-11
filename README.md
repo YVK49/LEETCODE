@@ -20,6 +20,7 @@ LEETCODE :
 | 18 | ![Medium](https://img.shields.io/badge/-Medium-orange) | 4 sum | [View Solution](./leetcode/18/18.py) |
 | 26 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Duplicates from Sorted Array | [View Solution](./leetcode/26/26.py) |
 | 27 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Remove Element | [View Solution](./leetcode/27/27.py) |
+| 28 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | Find the Index of the First Occurrence in a String | [View Solution](./leetcode/28/28.py) |
 | 50 | ![Medium](https://img.shields.io/badge/-Medium-orange) | Pow(x, n) | [View Solution](./leetcode/50/50.py) |
 | 58 | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | length of last word | [View Solution](./leetcode/58/58.py) |
 | 75 | ![Medium](https://img.shields.io/badge/-Medium-orange) | sort colors | [View Solution](./leetcode/75/75.py) |
@@ -117,8 +118,8 @@ geek for geeks :
 
 ## 📊 Statistics (leetcode)
 
-- **Total Problems Solved:** 62
-- **Easy:** 47
+- **Total Problems Solved:** 63
+- **Easy:** 48
 - **Medium:** 15
 - **Hard:** 0
 
